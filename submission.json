@@ -1,0 +1,8 @@
+{
+  "prompt": "Conceptual art, magazine cover. A giant, crumbling stone tower made of thousands of dark, huddled gray prison-cell blocks forming a massive, heavy base. The top level is a single, singular, polished gold and crystal platform. A glowing yellow light from the gold top illuminates the suffering structure below. High contrast, cinematic shadows. NO charts, NO labels, NO text. Pure metaphor of power.",
+  "model": "DALL-E 3 (via Microsoft Designer)",
+  "dataset_name": "Oxfam: Davos 2024 (based on World Bank data)",
+  "dataset_url": "https://www.oxfam.org/en/press-releases/richest-1-bag-nearly-twice-much-wealth-rest-world-put-together-over-past-two-years",
+  "insight": "The 1% possess an explosive, singular concentration of wealth that is violently out of balance with the combined existence of the 99%.",
+  "publish_email": true
+}
